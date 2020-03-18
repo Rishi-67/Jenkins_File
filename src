@@ -1,9 +1,0 @@
-@@ -2,7 +2,7 @@
-/*
- * 
- */
-public class Calculator {{
-public class Calculator {
-	/*
-	 * @param i
-	 * @param j
